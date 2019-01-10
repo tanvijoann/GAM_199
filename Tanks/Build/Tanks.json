@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "UniteBoston2015TrainingDay",
+"productName": "TanksBasic",
 "dataUrl": "Tanks.data.unityweb",
 "wasmCodeUrl": "Tanks.wasm.code.unityweb",
 "wasmFrameworkUrl": "Tanks.wasm.framework.unityweb",
